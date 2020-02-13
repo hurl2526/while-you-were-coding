@@ -21,7 +21,7 @@
 //
 // ###### Challenge Banner Function Works! #####
 function addChallengeBanner (num){
-  console.log('######### '+'Challenge ' + num + ' #########')
+  console.log('######## '+'Challenge ' + num + ' ########')
 }
 addChallengeBanner('Banner Function Works!')
 addChallengeBanner(2);
